@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This repository contains the implementation of a novel approach to predict solar power generation using microclimate data. Our model utilizes comprehensive data processing techniques including temporal embedding and adaptive normalization to analyze environmental factors and forecast solar panel power output. The project was developed for a power prediction competition where it ranked 44th out of 500 participants.
+This repository contains the implementation of a novel approach to predict solar power generation using microclimate data. Our model utilizes comprehensive data processing techniques including temporal embedding and adaptive normalization to analyze environmental factors and forecast solar panel power output. The project was developed for a power prediction competition where it ranked 44th out of 900+ participants.
 
 ## Features
 - Processes minute-by-minute microclimate data to predict solar power generation
